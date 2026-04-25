@@ -1,0 +1,1 @@
+The Urban Development Authority in Wa manages planning datasets such as roads, proposed developments, markets, and planning zones. Some users require view-only access, while planning officers require editable internal versions.
